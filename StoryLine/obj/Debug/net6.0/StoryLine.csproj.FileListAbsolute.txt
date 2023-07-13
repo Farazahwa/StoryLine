@@ -1,0 +1,15 @@
+D:\StoryLine\bin\Debug\net6.0\StoryLine.exe
+D:\StoryLine\bin\Debug\net6.0\StoryLine.deps.json
+D:\StoryLine\bin\Debug\net6.0\StoryLine.runtimeconfig.json
+D:\StoryLine\bin\Debug\net6.0\StoryLine.dll
+D:\StoryLine\bin\Debug\net6.0\ref\StoryLine.dll
+D:\StoryLine\bin\Debug\net6.0\StoryLine.pdb
+D:\StoryLine\obj\Debug\net6.0\StoryLine.csproj.AssemblyReference.cache
+D:\StoryLine\obj\Debug\net6.0\StoryLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\StoryLine\obj\Debug\net6.0\StoryLine.AssemblyInfoInputs.cache
+D:\StoryLine\obj\Debug\net6.0\StoryLine.AssemblyInfo.cs
+D:\StoryLine\obj\Debug\net6.0\StoryLine.csproj.CoreCompileInputs.cache
+D:\StoryLine\obj\Debug\net6.0\StoryLine.dll
+D:\StoryLine\obj\Debug\net6.0\ref\StoryLine.dll
+D:\StoryLine\obj\Debug\net6.0\StoryLine.pdb
+D:\StoryLine\obj\Debug\net6.0\StoryLine.genruntimeconfig.cache
